@@ -1,0 +1,11 @@
+.mainBlock {
+    display: block;
+    width: 20em;
+    height: 25em;
+
+    background-color: grey;
+
+    border-style: solid;
+    border-color: #000;
+    border-radius: 1em;
+}
