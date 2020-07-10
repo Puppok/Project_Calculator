@@ -9,3 +9,30 @@
     border-color: #000;
     border-radius: 1em;
 }
+.typeInWindow {
+    position: relative;
+    top: 2em;
+    left: 0.7em;
+
+    display: block;
+    width: 18em;
+    height: 4em;
+
+    background-color: #c5c5c5;
+
+    border-style: solid;
+    border-color: #000;
+    border-radius: 1em;
+}
+.resetButton {
+    position: absolute;
+    top: 0.6em;
+    left: 0.5em;
+
+    width: 3.5em;
+    height: 3.5em;
+
+    border-radius: 1em;
+
+    outline: none;
+}
